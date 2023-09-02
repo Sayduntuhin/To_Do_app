@@ -9,25 +9,5 @@ We are developing an innovative mobile application that leverages the power of H
 - Hive NoSQL Database
 - [List other technologies and tools used in your project]
 
-## Features
 
-- [List and describe the main features of your app.]
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. [Provide instructions on how to clone the repository]
-2. [Explain how to install project dependencies]
-3. [Include any configuration steps, such as API keys or environment variables]
-4. [Provide instructions for running the app locally or deploying it]
-
-## Usage
-
-[Provide examples or instructions on how to use your app. Include screenshots or code snippets if applicable.]
-
-```bash
-# Example:
-# 1. Register a new user
-# 2. Log in to the app
-# 3. Explore the app's features
